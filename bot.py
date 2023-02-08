@@ -1,7 +1,11 @@
+# Проект: ТГ-бот для поиска адвоката, ближайшего к доверителю
+# 09.02.2023    IgorLytkin  настроил SSH-ключ на GitHub
+#
 import asyncio
 import logging
-from aiogram import Bot, Dispatcher, types
 import os
+
+from aiogram import Bot, Dispatcher, types
 
 # Данные об ОС
 print(os.name)

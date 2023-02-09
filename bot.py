@@ -1,5 +1,5 @@
 # Проект: ТГ-бот для поиска адвоката, ближайшего к доверителю
-# 09.02.2023    IgorLytkin  настроил SSH-ключ на GitHub
+# 10.02.2023    IgorLytkin  настроил SSH-ключ на GitHub
 #
 import asyncio
 import logging
